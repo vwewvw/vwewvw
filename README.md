@@ -33,6 +33,7 @@ ITMO student
 ## 💻 Пример кода на Python
 
 ```python
+print("Hello world")
 def greet(name):
     """Приветствует пользователя."""
     return f"Привет, {name}!"

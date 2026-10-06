@@ -35,10 +35,4 @@ ITMO student
 ```python
 print("Hello world")
 
-
-
- 
-
-print(greet("Мир"))
-
  

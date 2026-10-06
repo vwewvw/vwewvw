@@ -34,9 +34,7 @@ ITMO student
 
 ```python
 print("Hello world")
-def greet(name):
-    """Приветствует пользователя."""
-    return f"Привет, {name}!"
+ 
 
 print(greet("Мир"))
 

@@ -1,26 +1,34 @@
-# Привет! 👋 Я Руслана
+# Алоха, Я Руслана
 
 ## 👩‍💻 Обо мне
 
-Студентка ИТМО, изучаю программирование и Git.
+ITMO student
 
 > «Улыбаемся и машем!»
 
 ## 🛠️ Мои навыки
 
-- Python
-- C
-- C++
-- Git
-- GitHub
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 Мои проекты
+### 📊 Уровень владения
 
-| Проект | Описание | Статус |
-|---|---|---|
-| itmo_tools_2026 | Лабораторные работы | ✅ Готово |
-| Лаба №1 | Git | ✅ Готово |
-| Лаба №2 | Документирование | ✅ Готово |
+| Язык | Уровень |
+|---|---|
+| Python | ⭐⭐⭐⭐☆ |
+| C | ⭐⭐☆☆☆ |
+| C++ | ⭐⭐⭐☆☆ |
+| Git | ⭐⭐☆☆☆ |
+| GitHub | ⭐⭐☆☆☆ |
+
+## 🏆 Мои достижения
+
+- 🚀 Вайбкодер
+- 💻 5 лет на программиста работую бариста
+ 
 
 ## 💻 Пример кода на Python
 

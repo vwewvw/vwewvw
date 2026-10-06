@@ -6,6 +6,8 @@ ITMO student
 
 > «Улыбаемся и машем!»
 
+![Мем](https://i.pinimg.com/736x/cb/54/10/cb5410ae82bb789a203348c7fb1f7e75.jpg)
+
 ## 🛠️ Мои навыки
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

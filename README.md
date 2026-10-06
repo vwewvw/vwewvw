@@ -1,16 +1,34 @@
-## Hi there 👋
+# Привет! 👋 Я Руслана
 
-<!--
-**vwewvw/vwewvw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Обо мне
 
-Here are some ideas to get you started:
+Студентка ИТМО, изучаю программирование и Git.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> «Улыбаемся и машем!»
+
+## 🛠️ Мои навыки
+
+- Python
+- C
+- C++
+- Git
+- GitHub
+
+## 📊 Мои проекты
+
+| Проект | Описание | Статус |
+|---|---|---|
+| itmo_tools_2026 | Лабораторные работы | ✅ Готово |
+| Лаба №1 | Git | ✅ Готово |
+| Лаба №2 | Документирование | ✅ Готово |
+
+## 💻 Пример кода на Python
+
+```python
+def greet(name):
+    """Приветствует пользователя."""
+    return f"Привет, {name}!"
+
+print(greet("Мир"))
+
+ 
